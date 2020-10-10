@@ -7,7 +7,7 @@
       "state": "Jon Doe",
       "country": "Jon Doe",
       "telephone": 9876543210,
-      "birthDay": "01/01/1970"
+      "birthday": "01/01/1970"
     }
   ]
 }
