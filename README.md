@@ -5,13 +5,19 @@
 
  Data of the repo can be accessed ```https://my-json-server.typicode.com/abhishekgowda28/sampledata/<property_name>```
 
-Sample Data includes properties
+### Sample Data includes properties
 
- ## people
+> **`users`** : 
+
+  > > type :``` Array<User>```
+
+  > > access : ```https://my-json-server.typicode.com/abhishekgowda28/sampledata/users```
 
 ```ts
-type people = {
-  name: string;
+type User = {
+  id: number;
+  first_name: string;
+  last_name: string;
   street: string;
   city: string;
   state: string;

@@ -1,7 +1,9 @@
 {
-  "people": [
+  "users": [
     {
-      "name": "Jon Doe",
+      "id": 0,
+      "first_name": "Jon",
+      "last_name": "Doe",
       "street": "Jon Doe",
       "city": "Jon Doe",
       "state": "Jon Doe",
