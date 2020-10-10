@@ -1,12 +1,13 @@
 {
-  "sampleData: [{
-  "name": "__________",
-  "street": "__________",
-  "city": "__________",
-  "state": "__________",
-  "country": "__________",
-  "telephone": "__________",
-  "birthday": "__________"
-}]
-
+  "people": [
+    {
+      "name": "Jon Doe",
+      "street": "Jon Doe",
+      "city": "Jon Doe",
+      "state": "Jon Doe",
+      "country": "Jon Doe",
+      "telephone": 9876543210,
+      "birthDay": "01/01/1970"
+    }
+  ]
 }
