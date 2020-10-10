@@ -21,3 +21,5 @@ type people = {
 };
 
 ```
+
+For details refer [My JSON Server](https://my-json-server.typicode.com/)
