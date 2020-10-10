@@ -5,7 +5,7 @@
 
  Data of the repo can be accessed ```https://my-json-server.typicode.com/abhishekgowda28/sampledata/<property_name>```
 
-Sample Data includes property like
+Sample Data includes properties
 
  ## people
 
