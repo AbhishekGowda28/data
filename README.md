@@ -24,6 +24,7 @@ type User = {
   country: string;
   telephone: number;
   birthday: string; // format dd/mm/yyyy
+  avator: string // url
 };
 
 ```
