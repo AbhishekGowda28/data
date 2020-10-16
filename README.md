@@ -9,9 +9,9 @@
 
 > **`users`** : 
 
-  > > type :``` Array<User>```
+  > type :``` Array<User>```
 
-  > > access : ```https://my-json-server.typicode.com/abhishekgowda28/sampledata/users```
+  > access : ```https://my-json-server.typicode.com/abhishekgowda28/sampledata/users```
 
 ```ts
 type User = {
